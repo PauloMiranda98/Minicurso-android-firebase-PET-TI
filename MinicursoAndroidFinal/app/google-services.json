@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10640317406",
+    "firebase_url": "https://teste-f6bda.firebaseio.com",
+    "project_id": "teste-f6bda",
+    "storage_bucket": "teste-f6bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10640317406:android:824f2e181c97207f",
+        "android_client_info": {
+          "package_name": "paulomiranda.testeminicurso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10640317406-5ppb6mc7b4v3udoa8vf5csois9hgfp30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiEffITD8dyHXhUmjBKn9tpzeaNXi5uDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
